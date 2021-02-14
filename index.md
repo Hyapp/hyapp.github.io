@@ -34,7 +34,7 @@
 
 [VS Code](https://code.visualstudio.com/) Microsoft 文本编辑器
 
-[Vim]() GNU 编辑器之神，支持Windows/*nux/macOS。文本编辑器，使用门槛较高
+[Vim](https://www.vim.org/) GNU 编辑器之神，支持Windows/*nux/macOS。文本编辑器，使用门槛较高
 
 [Emacs](https://www.gnu.org/software/emacs/) GNU 神的编辑器，支持Windows/*nux/macOS。 文本编辑器和奇怪的东西，使用门槛较高
 
