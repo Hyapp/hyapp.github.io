@@ -68,4 +68,4 @@
 
 [Timing](https://github.com/Hyapp/Timing)
 
-[Test Page](TestPage.md)
+[Test Page](https://hyapp.github.io/testPage)
