@@ -1,6 +1,24 @@
 [首页](index.md)
 # 一些有用的网站
 
+## 数学
+
+### 研究中心
+[IAS](https://www.ias.edu)
+
+[IHES](https://www.ihes.fr/en/)
+
+[BICMR](http://bicmr.pku.edu.cn/) 北京国际数学中心
+
+[SCMS](http://www.scms.fudan.edu.cn/) 上海数学中心
+
+### 期刊分区
+[复旦分区](http://math.fudan.edu.cn/show.aspx?info_lb=793&flag=415&info_id=4459)
+
+### 文献查找
+
+[arXiv](https://arxiv.org/) 预发布网站
+
 ## 计算机语言与框架API参考
 [Mathematica](https://reference.wolfram.com/language/) 官方文档
 
@@ -16,8 +34,7 @@
 
 [NVIDIA](https://docs.nvidia.com/) 开发者文档
 
-## 文献查询与参考
-[arXiv](https://arxiv.org/) 预发布网站
+[Unicode Math](https://docs.microsoft.com/zh-cn/archive/blogs/murrays/unicodemath) Office 2016后内置的线性公式格式参考
 
 ## 一些有用且免费的软件官网
 
@@ -35,18 +52,20 @@
 
 [Vim](https://www.vim.org/) GNU 编辑器之神，支持Windows/*nux/macOS。文本编辑器，使用门槛较高
 
-[Emacs](https://www.gnu.org/software/emacs/) GNU 神的编辑器，支持Windows/*nux/macOS。 文本编辑器和奇怪的东西，使用门槛较高
+[Emacs](https://www.gnu.org/software/emacs/) GNU 神之编辑器，支持Windows/*nux/macOS。 文本编辑器和奇怪的东西，使用门槛较高
 
 ### 排版
 [LaTex](https://www.latex-project.org/) LaTex 官网
 
-[TexMacs](http://www.texmacs.org/tmweb/home/welcome.en.html) GNU旗下一款WYSIWYG(所见即所得)的文档编写软件。
+[TexMacs](http://www.texmacs.org/tmweb/home/welcome.en.html) GNU WYSIWYG(所见即所得)的文档编写软件
 
 [XMacs](https://gitee.com/xmacs/Xmacs) 国内大佬基于TexMacs二次开发的文档编写软件
 
 [OpenOffice](http://www.openoffice.org/) Office替代品，无广告
 
 [Pandoc](https://www.pandoc.org/) 各种文档格式间相互转换
+
+[Math Type](https://store.office.com/addinsinstallpage.aspx?assetid=WA104381909&omkt=zh-CN) Office 2016后的Math Type加载项，免费
 
 ### 工具类软件
 
