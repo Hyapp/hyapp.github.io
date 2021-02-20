@@ -11,5 +11,5 @@
 [离谱故事集](someTale.md)
 
 $$
-    sin^2(x)+cos^2(x) = 1
+    e^{i\pi} + 1 = 0
 $$
