@@ -19,6 +19,10 @@
 
 [arXiv](https://arxiv.org/) 预发布网站
 
+### 大佬
+
+[李文威](https://www.wwli.asia/index.php/zh/)
+
 ## 计算机语言与框架API参考
 [Mathematica](https://reference.wolfram.com/language/) 官方文档
 
@@ -57,9 +61,9 @@
 ### 排版
 [LaTex](https://www.latex-project.org/) LaTex 官网
 
-[TexMacs](http://www.texmacs.org/tmweb/home/welcome.en.html) GNU WYSIWYG(所见即所得)的文档编写软件
+[TeXmacs](http://www.texmacs.org/tmweb/home/welcome.en.html) GNU WYSIWYG(所见即所得)的文档编写软件
 
-[XMacs](https://gitee.com/xmacs/Xmacs) 国内大佬基于TexMacs二次开发的文档编写软件
+[Xmacs](https://gitee.com/xmacs/Xmacs) 国内大佬基于TeXmacs二次开发的文档编写软件
 
 [OpenOffice](http://www.openoffice.org/) Office替代品，无广告
 
