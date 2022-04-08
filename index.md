@@ -6,6 +6,8 @@
 
 [Timing](https://github.com/Hyapp/Timing) 最近写的代码
 
+[Math](https://github.com/Hyapp/Math) 个人数学仓库
+
 [网站索引](webIndex.md)
 
 [离谱故事集](someTale.md)
