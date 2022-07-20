@@ -6,6 +6,8 @@
 
 [Timing](https://github.com/Hyapp/Timing) 最近写的代码
 
+[Notes](noteIndex.md)笔记
+
 [网站索引](webIndex.md)
 
 [离谱故事集](someTale.md)
